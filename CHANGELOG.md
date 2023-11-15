@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.14.0](https://github.com/asdf-vm/asdf/compare/v0.13.1...v0.14.0) (2023-11-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* Enable `pipefail` ([#1608](https://github.com/asdf-vm/asdf/issues/1608))
+
+### Patches
+
+* Enable `pipefail` ([#1608](https://github.com/asdf-vm/asdf/issues/1608)) ([4085e55](https://github.com/asdf-vm/asdf/commit/4085e5542bac824ea124610ad247c2f90d1b8d93))
+* plugin extension commands to not require `bin/` directory ([#1643](https://github.com/asdf-vm/asdf/issues/1643)) ([61420ad](https://github.com/asdf-vm/asdf/commit/61420ad90829b2c9bf1ca16681a2eb652adcc755))
+
+
+### Documentation
+
+* fix some pt-br spelling ([#1640](https://github.com/asdf-vm/asdf/issues/1640)) ([0c7c41a](https://github.com/asdf-vm/asdf/commit/0c7c41ab44d3a42a9e57e3d20a646569c2eacfdc))
+* fix typo "node version" filename ([#1679](https://github.com/asdf-vm/asdf/issues/1679)) ([fad23bc](https://github.com/asdf-vm/asdf/commit/fad23bc9f4d38747f28d6708ab01689749030063))
+* fix typo ([#1670](https://github.com/asdf-vm/asdf/issues/1670)) ([5737fa3](https://github.com/asdf-vm/asdf/commit/5737fa316eab01c4033565eacf678222cd861f8d))
+* Improve `.asdfrc` plugin hook docuentation ([#1661](https://github.com/asdf-vm/asdf/issues/1661)) ([8fbf9a3](https://github.com/asdf-vm/asdf/commit/8fbf9a396bd4a5b71ec7cf215d12040fb5365d6a))
+
 ## [0.13.1](https://github.com/asdf-vm/asdf/compare/v0.13.0...v0.13.1) (2023-09-12)
 
 
